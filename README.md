@@ -20,7 +20,7 @@ The Supermarket Automation System is designed to enhance the efficiency of a sup
 
 - **Manager:** The manager is responsible for overseeing the business operations. They have the authority to view the inventory status of each item, access an overall summary of sales, and adjust the selling price of items.
 
-- **Sales Clerk:** Sales clerks handle customer transactions. They carry out transactions, generate and print receipts, and provide customer assistance.
+- **Sales Clerk:** Sales clerks handle customer transactions. They carry out transactions, generate and print receipts, and provide customer assistance.They can also subscribe customers to the newsletter service.
 
 - **Supermarket Staff:** Supermarket staff members are responsible for product maintenance and inventory management. They ensure products are well-organized and add newly arrived items to the inventory.
 
